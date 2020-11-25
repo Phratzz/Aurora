@@ -8,5 +8,7 @@
 		</update>
 	</info>
 	<files>
+		<file name="magical-items.index" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/magical-items.index" />
+		<file name="classes.index" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/classes.index" />
 	</files>
 </index>
