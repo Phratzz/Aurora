@@ -17,7 +17,7 @@
 			<set name="cost" currency="gp">0</set>
 			<set name="type" addition="dagger">Weapon</set>
 			<set name="attunement">true</set>
-			<set name="rarity">Uncommon</set>
+			<set name="rarity">Common</set>
 			<set name="weapon">Dagger</set>
 			<set name="name-format">Sun's Flame</set>
 			<set name="charges">1</set>
