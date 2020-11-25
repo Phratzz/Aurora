@@ -1,1 +1,26 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Weapons</name>
+		<description></description>
+		<update version="0.0.1">
+			<file name="weapons.xml" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/magical-items/weapons.xml" />
+		</update>
+	</info>
+  <element name="Sun's Flame" type="Magic Item" source="Homebrew Magic items" id="ID_HOMEBREW_MAGIC_ITEM_SUNS_FLAME">
+		<description>
+			<p>This dagger is a magic weapon. Once per day, you can use an action and to cast <em>burning hands</em> (save DC 12) shooting out a thin sheet of flames from it's tip. The dagger regains use of this ability at dawn.</p>
+		</description>
+		<setters>
+			<set name="keywords">dagger</set>
+			<set name="category">Magic Weapons</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="type" addition="dagger">Weapon</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+			<set name="weapon">Dagger</set>
+			<set name="name-format">Sun's Flame</set>
+			<set name="charges">1</set>
+		</setters>
+	</element>
+</elements>
