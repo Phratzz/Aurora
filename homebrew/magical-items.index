@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Magical Items</name>
+		<description>Any magical items made for the campaign.</description>
+		<update version="0.0.1">
+			<file name="monster-manual.index" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/magical-items.index" />
+		</update>
+	</info>
+	<files>
+		<file name="weapons.xml" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/items/weapons.xml" />
+		<file name="armors.xml" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/items/armors.xml" />
+		<file name="wonderous.xml" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/items/wonderous.xml" />
+	</files>
+</index>
