@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Armors</name>
+		<description></description>
+		<update version="0.0.1">
+			<file name="weapons.xml" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/magical-items/armors.xml" />
+		</update>
+	</info>
+</elements>
