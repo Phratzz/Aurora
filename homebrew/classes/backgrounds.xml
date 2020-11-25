@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Backgrounds</name>
+		<description>New backgrounds made for the campaign.</description>
+		<update version="0.1.0">
+			<file name="backgrounds.index" url="https://raw.githubusercontent.com/Phratzz/Aurora/main/homebrew/classes/backgrounds.index" />
+		</update>
+	</info>
+	<files>
+	</files>
+</index>
